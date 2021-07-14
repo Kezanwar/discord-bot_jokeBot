@@ -1,0 +1,15 @@
+{
+  "name": "disc_joke_bot",
+  "version": "1.0.0",
+  "description": "A discord bot that tells a random joke",
+  "main": "jokeBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kez Anwar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
